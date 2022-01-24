@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-:heart: Programming | :black_heart: C-pop | :blue_heart: Anime
+:heart: Programming | :black_heart: C-pop | :blue_heart: Astronomy
 
 <p align="left">
   Hi, I'm Hyperspace, a Software Engineering student🌱
@@ -23,17 +23,19 @@
 
 ### 💻:keyboard: Languages and Tools
 
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18)
+Python：[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-blue?style=flat&logo=scikitlearn&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18)
 
-Python：[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18)
+Java： [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Junit5](https://img.shields.io/badge/-Junit5-E34F26?style=flat&logo=Junit5&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18)  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Hyper18)](https://github.com/Hyper18)
 
-Java： [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18)  [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Hyper18)](https://github.com/Hyper18) 
+Server：[![Vim](https://img.shields.io/badge/-Vim-lightgrey?style=flat&logo=vim&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Linux](https://img.shields.io/badge/-Linux-white?style=flat&logo=Linux&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Apache-Tomcat](https://img.shields.io/badge/-Apache_Tomcat-grey?style=flat&logo=apachetomcat&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat&logo=Nginx&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Swagger](https://img.shields.io/badge/-Swagger-white?style=flat&logo=swagger&link=https://github.com/Hyper18)](https://github.com/Hyper18) 
 
-Front End：[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Hyper18)](https://github.com/Hyper18)  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/Hyper18)](https://github.com/Hyper18)
+Front End：[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Hyper18)](https://github.com/Hyper18)[![Selenium](https://img.shields.io/badge/-Selenium-white?style=flat&logo=selenium&link=https://github.com/Hyper18)](https://github.com/Hyper18)  
 
-SQL： [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Redis](https://img.shields.io/badge/-Redis-blue?style=flat&logo=redis&link=https://github.com/Hyper18)](https://github.com/Hyper18)
+Data Storage： [![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat&logo=mysql&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Microsoft-SQL-Server](https://img.shields.io/badge/-Microsoft_SQL_Server-lightgray?style=flat&logo=microsoftsqlserver&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Redis](https://img.shields.io/badge/-Redis-blue?style=flat&logo=redis&link=https://github.com/Hyper18)](https://github.com/Hyper18)
 
 Version Control：[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Hyper18)](https://github.com/Hyper18)
+
+Tools & Env：[![Anaconda](https://img.shields.io/badge/-Anaconda-white?style=flat&logo=anaconda&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![IntelliJ-IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-orange?style=flat&logo=intellijidea&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Visual-Studio-Code](https://img.shields.io/badge/-Visual_Studio_Code-1572B6?style=flat&logo=visualstudiocode&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Markdown](https://img.shields.io/badge/-Markdown-lightgrey?style=flat&logo=markdown&link=https://github.com/Hyper18)](https://github.com/Hyper18)
 
 ------
 
@@ -50,7 +52,10 @@ Version Control：[![Git](https://img.shields.io/badge/-Git-black?style=flat&log
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=hyper18&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <div align="center"> <img src="https://hyper18.herokuapp.com/graph?username=hyper18&theme=react-dark" /> </div>
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hyper18.hyper18">
+
+
+
