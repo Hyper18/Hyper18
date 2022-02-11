@@ -4,6 +4,7 @@
   </a>
 </h1>
 
+
 :heart: Programming | :black_heart: C-pop | :blue_heart: Astronomy
 
 <p align="left">
@@ -19,6 +20,7 @@
   <br>
 </p>
 
+
 ------
 
 ### 💻:keyboard: Languages and Tools
@@ -31,15 +33,15 @@ Server：[![Vim](https://img.shields.io/badge/-Vim-lightgrey?style=flat&logo=vim
 
 Front End：[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Hyper18)](https://github.com/Hyper18)  [![Vue.js](https://img.shields.io/badge/-Vue.js-deepgreen?style=flat&logo=vuedotjs&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Selenium](https://img.shields.io/badge/-Selenium-white?style=flat&logo=selenium&link=https://github.com/Hyper18)](https://github.com/Hyper18)  
 
-Data Storage： [![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat&logo=mysql&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Microsoft-SQL-Server](https://img.shields.io/badge/-Microsoft_SQL_Server-grey?style=flat&logo=microsoftsqlserver&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Redis](https://img.shields.io/badge/-Redis-blue?style=flat&logo=redis&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat&logo=GraphQL&logoColor=purple&link=https://github.com/Hyper18)](https://github.com/Hyper18)
+Data Storage： [![MySQL](https://img.shields.io/badge/-MySQL-green?style=flat&logo=mysql&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Microsoft-SQL-Server](https://img.shields.io/badge/-Microsoft_SQL_Server-grey?style=flat&logo=microsoftsqlserver&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Redis](https://img.shields.io/badge/-Redis-blue?style=flat&logo=redis&link=https://github.com/Hyper18)](https://github.com/Hyper18)
 
-Version Control：[![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Gitee](https://img.shields.io/badge/Gitee-darkred?style=flat&logo=Gitee&link=https://github.com/Hyper18)](https://github.com/Hyper18)
-
-Tools & Env：[![Anaconda](https://img.shields.io/badge/-Anaconda-white?style=flat&logo=anaconda&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Pycharm](https://img.shields.io/badge/-Pycharm-lime?style=flat&logo=pycharm&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![IntelliJ-IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-red?style=flat&logo=intellijidea&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![CentOS](https://img.shields.io/badge/-CentOS-black?style=flat&logo=centos&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Visual-Studio-Code](https://img.shields.io/badge/-Visual_Studio_Code-1572B6?style=flat&logo=visualstudiocode&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Markdown](https://img.shields.io/badge/-Markdown-lightgrey?style=flat&logo=markdown&link=https://github.com/Hyper18)](https://github.com/Hyper18)
+Version Control：[![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Hyper18)](https://github.com/Hyper18)
 
 ------
 
-###   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 <p align=center>
   <div align=center>
@@ -56,6 +58,3 @@ Tools & Env：[![Anaconda](https://img.shields.io/badge/-Anaconda-white?style=fl
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hyper18.hyper18">
-
-
-
