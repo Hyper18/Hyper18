@@ -8,7 +8,7 @@
 :heart: Programming | :black_heart: C-pop | :blue_heart: Astronomy
 
 <p align="left">
-  Hi, I'm Hyperspace, a Software Engineering student🌱
+  🔭 Hi, I'm Hyperspace, a Software Engineering student
   <br><br>
   🔬 I'm now studying for a undergraduate's degree
   <br>
