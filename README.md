@@ -8,8 +8,8 @@
 :heart: Programming | :black_heart: C-pop | :blue_heart: Astronomy
 
 <p align="left">
-  🔭 Hi, I'm Hyperspace
-  <br><br>
+  🔭 Hi, I'm Hyper
+  <br>
   📚 I've been on this amazing journey as a programmer ever since 18
   <br>
   💻 I love writing code and learn everything about it
