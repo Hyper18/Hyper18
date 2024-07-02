@@ -26,7 +26,7 @@
 
 ### 💻 Languages and Tools
 
-Java：[![Java](https://img.shields.io/badge/Java-darkorange?style=flat&logo=java&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Spring](https://img.shields.io/badge/-Spring-red?style=flat&logo=spring&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Spring](https://img.shields.io/badge/-Spring_Cloud-Spring_Cloud?style=flat&color=#fff&logo=spring&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Apache Dubbo](https://img.shields.io/badge/Apache Dubbo-D22128?logo=apache&logoColor=fff&style=flat)](https://github.com/Hyper18) [![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat)](https://github.com/Hyper18)
+Java：[![Java](https://img.shields.io/badge/Java-darkorange?style=flat&logo=java&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Spring](https://img.shields.io/badge/-Spring-red?style=flat&logo=spring&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Spring](https://img.shields.io/badge/-Spring_Cloud-Spring_Cloud?style=flat&color=#fff&logo=spring&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Dubbo](https://img.shields.io/badge/Apache_Dubbo-D22128?logo=apache&logoColor=fff&style=flat)](https://github.com/Hyper18) [![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-F60?logo=rabbitmq&logoColor=fff&style=flat)](https://github.com/Hyper18)
 
 Python：[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Numpy](https://img.shields.io/badge/-Numpy-purple?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Hyper18)](https://github.com/Hyper18) [![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-blue?style=flat&logo=scikitlearn&link=https://github.com/Hyper18)](https://github.com/Hyper18)
 
@@ -46,7 +46,7 @@ DevOps：[![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git&lin
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hyper18&row=1&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hyper18&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align=center>
   <div align=center>
