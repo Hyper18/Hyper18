@@ -45,9 +45,8 @@ DevOps：[![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git&lin
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hyper18&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyper18&layout=donut&&exclude_repo=Hyper18.github.io)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hyper18&row=2&column=3&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
